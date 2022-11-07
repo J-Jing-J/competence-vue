@@ -1,0 +1,10 @@
+{
+    // 自动格式化 eslint --fix & prettier format
+    "editor.formatOnSave": true,
+    "standard.autoFixOnSave": true,
+    "standard.enable": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    }
+  }
+  
